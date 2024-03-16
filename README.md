@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/JakhongirKhalimov](https://github.com/JakhongirKhalimov)
 
-- 💬 Ask me about **C#, C++, Python**
+- 💬 Ask me about **C#, .net, asp.net core, asp.net core mvc**
 
 - 📫 How to reach me **jakhongirhalimov1602@gmail.com**
 
